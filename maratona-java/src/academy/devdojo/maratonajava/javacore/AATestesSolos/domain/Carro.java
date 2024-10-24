@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.TestesSolos.domain;
+package academy.devdojo.maratonajava.javacore.AATestesSolos.domain;
 
 public class Carro {
     private String car;
