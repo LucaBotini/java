@@ -4,6 +4,10 @@ public class Carro {
     private String car;
     private String model;
     private int year;
+    {
+        System.out.println("Sempre que iniciar, vai codar essa parada");
+    }
+
 
     public Carro(String car, String model, int year){
         this.car = car;
