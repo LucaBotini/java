@@ -16,10 +16,7 @@ public class Cliente {
         return "Cliente{" +
                 "name='" + name + '\'' +
                 ", tipoCliente=" + tipoCliente +
-                ", tipoClienteINT=" + tipoCliente.VALOR +
                 ", tipoPagamento=" + tipoPagamento +
                 '}';
     }
-
-
 }
